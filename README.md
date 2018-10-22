@@ -1,5 +1,5 @@
 # mycrobe-wasp
-Microcontroller-based batch audio presenter
+Microcontroller-based batch audio presenter -- **currently the development continues in debug branch!**
 
 # Short history
 
