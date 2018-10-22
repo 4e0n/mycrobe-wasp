@@ -16,3 +16,11 @@ Some oscilloscope output demonstrating the jitter level:
 The device itself:
 
 <img src="http://icon.unrlabs.org/projects/mycrobe-wasp/images/wasp2.png" width="400">
+
+# Hardware schematics and installation
+
+Please check in this part later. I'll make detailed explanations to build your own device. If you need urgent help, there may be a possibility that I can help you maybe via some hints. Please send me an e-mail.
+
+# Requirements
+
+The main development counterpart is the MikroC PIC32 compiler by MikroElektronika (http://www.mikroe.com).
