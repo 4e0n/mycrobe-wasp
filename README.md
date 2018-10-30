@@ -9,13 +9,18 @@ The device is based upon a small PIC32-based embedded board from MikroElektronik
 
 Some oscilloscope output demonstrating the jitter level:
 
-<img src="http://icon.unrlabs.org/projects/mycrobe-wasp/images/wasp0.png" width="400">
-
-<img src="http://icon.unrlabs.org/projects/mycrobe-wasp/images/wasp1.png" width="400">
+<div align="center">
+<img src="http://icon.unrlabs.org/projects/mycrobe-wasp/images/wasp0.png" width="300">
+</div>
+<div align="center">
+<img src="http://icon.unrlabs.org/projects/mycrobe-wasp/images/wasp1.png" width="300">
+</div>
 
 The device itself:
 
-<img src="http://icon.unrlabs.org/projects/mycrobe-wasp/images/wasp2.png" width="400">
+<div align="center">
+<img src="http://icon.unrlabs.org/projects/mycrobe-wasp/images/wasp2.png" width="300">
+</div>
 
 # Hardware schematics and installation
 
