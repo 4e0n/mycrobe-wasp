@@ -8,11 +8,15 @@ mycrobe-wasp is the code for a device I manufactured during my Neuroscience post
 The device is based upon a small PIC32-based embedded board from MikroElektronika and expects a TTL-trigger from a computer (in our case it was parallel port driven within Matlab & PsychToolbox). In each trigger it plays .wav files (which are pre-arranged to fit in your Psychophysical trial set) on its microSD card one-by-one, also displaying which file currently it's playing on its color LCD-screen. So here resides its codebase ready to compile in PIC32 version of MikroC. Here are some pictures I've taken during development (others probably will arrive in time):
 
 Some oscilloscope output demonstrating the jitter level:
-
-<img src="http://icon.unrlabs.org/projects/mycrobe-wasp/images/wasp0.png" width="400">
-
-<img src="http://icon.unrlabs.org/projects/mycrobe-wasp/images/wasp1.png" width="400">
+<div align="center">
+<img src="http://icon.unrlabs.org/projects/mycrobe-wasp/images/wasp0.png" width="300">
+</div>
+<div align="center">
+<img src="http://icon.unrlabs.org/projects/mycrobe-wasp/images/wasp1.png" width="300">
+</div>
 
 The device itself:
 
-<img src="http://icon.unrlabs.org/projects/mycrobe-wasp/images/wasp2.png" width="400">
+<div align="center">
+<img src="http://icon.unrlabs.org/projects/mycrobe-wasp/images/wasp2.png" width="300">
+</div>
